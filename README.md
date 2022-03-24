@@ -6,8 +6,6 @@ All things DevOps: processes, best practices, guides and more!
 
 ## DNS
 
-------
-
 [What is DNS?](https://www.cloudflare.com/en-au/learning/dns/what-is-dns/)
 
 [Understanding how DNS works](https://www.techrepublic.com/article/understanding-how-dns-works-part-2/)
@@ -22,8 +20,6 @@ All things DevOps: processes, best practices, guides and more!
 
 ## Version Control / Git
 
-------
-
 [Learn Git](https://www.atlassian.com/git)
 
 [Git Branching Strategies](https://nvie.com/posts/a-successful-git-branching-model)
@@ -32,19 +28,13 @@ All things DevOps: processes, best practices, guides and more!
 
 ## AWS
 
-------
-
 [Easy Amazon EC2 Instance Comparison](https://instances.vantage.sh)
 
 ## Azure
 
-------
-
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/
 
 ## Docker
-
-------
 
 [Containerisation Explained](https://www.docker.com/resources/what-container)
 
@@ -53,8 +43,6 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/
 [Best Practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 
 ## Linux
-
-------
 
 [An introduction to Linux filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems)
 
@@ -66,19 +54,13 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/
 
 ## Security
 
-------
-
 [Hardening your HTTP response headers](https://scotthelme.co.uk/hardening-your-http-response-headers/)
 
 ## Restful APIs
 
-------
-
 [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 # Recommended Tools
-
-------
 
 CICD:
 
