@@ -2,7 +2,7 @@
 
 All things DevOps: processes, best practices, guides and more!
 
-![https://github.com/AsianJohnBoi/devops-resources/DevOps.png](https://github.com/AsianJohnBoi/devops-resources/DevOps.png)
+![https://github.com/AsianJohnBoi/devops-resources/blob/main/DevOps.png](https://github.com/AsianJohnBoi/devops-resources/blob/main/DevOps.png)
 
 ## DNS
 
