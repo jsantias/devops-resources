@@ -26,21 +26,27 @@ All things DevOps: processes, best practices, guides and more!
 
 [Oh Shit, git! : How to fix mistakes](http://ohshitgit.com/)
 
+[Manage multiple SSH keys and Github Accounts](https://medium.com/pranayaggarwal25/create-and-manage-multiple-github-accounts-272e4459b6bd)
+
 ## AWS
 
 [Easy Amazon EC2 Instance Comparison](https://instances.vantage.sh)
 
 ## Azure
 
-https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/
+[Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
 ## Docker
+
+[Docker Certified Associate](https://www.udemy.com/course/docker-certified-associate/)
 
 [Containerisation Explained](https://www.docker.com/resources/what-container)
 
 [App Containerisation and comparisaon to VMs](https://www.docker.com/resources/what-container)
 
 [Best Practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+
+[The Why and How to use Multi-Stage Docker builds for lean production images](https://medium.com/@ankit.wal/the-why-and-how-of-multi-stage-docker-build-with-typescript-example-bcadbce2686c)
 
 ## Linux
 
@@ -59,6 +65,10 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/
 ## Restful APIs
 
 [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+## Terraform
+
+[Terraform Certified Associate](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 
 # Recommended Tools
 
@@ -79,6 +89,14 @@ Git GUIs
 
 - [Fork](https://git-fork.com)
 - [Source Tree](https://www.sourcetreeapp.com)
+
+Cloud
+
+- [CloudDiscovery](https://github.com/Cloud-Architects/cloudiscovery) - Helps you discover resources in the cloud environment
+
+Docker
+
+- [Explore each layer in a docker image](https://github.com/wagoodman/dive)
 
 RESTful Clients
 
@@ -135,6 +153,13 @@ Web Servers:
 
 - NGINX
 - Apache
+
+Monitoring tools:
+
+- Seq (https://datalust.co)
+- Grafana (https://datalust.co)
+- Splunk (https://www.splunk.com)
+- PagerDuty (https://www.pagerduty.com)
 
 Protocols:
 
