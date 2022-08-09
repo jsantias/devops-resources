@@ -69,6 +69,11 @@ All things DevOps: processes, best practices, guides and more!
 ## Terraform
 
 [Terraform Certified Associate](https://www.udemy.com/course/terraform-beginner-to-advanced/)
+[Terraform Best Practice](https://www.terraform-best-practices.com)
+
+## CICD Sample Tools & Workflows
+[Build Runner](https://github.com/jsantias/build-runner) - A docker container containing all tools required to build your app
+[Github Actions <> Octopus Deploy](https://github.com/jsantias/ci-workflow-with-octopus-deploy) - Github Actions CI pipeline sample workflow with Octopus Deploy
 
 # Recommended Tools
 
