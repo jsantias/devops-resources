@@ -70,6 +70,7 @@ All things DevOps: processes, best practices, guides and more!
 
 [Terraform Certified Associate](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 [Terraform Best Practice](https://www.terraform-best-practices.com)
+[The ultimate terraform cheat sheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet)
 
 ## CICD Sample Tools & Workflows
 [Build Runner](https://github.com/jsantias/build-runner) - A docker container containing all tools required to build your app
