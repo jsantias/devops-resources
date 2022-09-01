@@ -27,6 +27,7 @@ All things DevOps: processes, best practices, guides and more!
 [Oh Shit, git! : How to fix mistakes](http://ohshitgit.com/)
 
 [Manage multiple SSH keys and Github Accounts](https://medium.com/pranayaggarwal25/create-and-manage-multiple-github-accounts-272e4459b6bd)
+[Handle multiple git configs in one machine](https://www.freecodecamp.org/news/how-to-handle-multiple-git-configurations-in-one-machine/)
 
 ## AWS
 
