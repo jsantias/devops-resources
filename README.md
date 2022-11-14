@@ -85,17 +85,20 @@ CICD:
 - Octopus Deploy (CD)
 - Bitbucket Pipelines
 - GitHub Actions
+- GitLab
 
 IDE's
 
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Atom](https://atom.io)
 - [Sublime Text](https://www.sublimetext.com)
+- [IntelliJ](https://www.jetbrains.com/idea/)
 
 Git GUIs
 
 - [Fork](https://git-fork.com)
 - [Source Tree](https://www.sourcetreeapp.com)
+- [GitKraken](https://www.gitkraken.com/)
 
 Cloud
 
@@ -113,6 +116,7 @@ Security Testing
 
 - [SSL Labs](https://www.ssllabs.com/ssltest/): SSL Server Testing
 - [CISOfy/Lynis](https://github.com/CISOfy/lynis): Compliance testing (ISO27001/PCI/HIPAA)
+- 
 
 Package Managers
 
@@ -142,6 +146,7 @@ IaC:
 - [tflint](https://github.com/terraform-linters/tflint): Terraform linter
 - [cfn-format](https://github.com/awslabs/aws-cloudformation-template-formatter): Cloudformation formatter
 - [cfn-lint](https://github.com/aws-cloudformation/cfn-lint): Cloudformation linter
+- [terratest](https://github.com/gruntwork-io/terratest): Write automated tests for IaC
 
 DNS:
 
@@ -150,7 +155,7 @@ DNS:
 
 Network:
 
-- Mmap
+- nmap
 - traceroute
 - tcpdump
 - iptables
@@ -165,6 +170,8 @@ Monitoring tools:
 
 - Seq (https://datalust.co)
 - Grafana (https://datalust.co)
+- NewRelic (https://newrelic.com/)
+- ELK (https://www.elastic.co/what-is/elk-stack)
 - Splunk (https://www.splunk.com)
 - PagerDuty (https://www.pagerduty.com)
 
