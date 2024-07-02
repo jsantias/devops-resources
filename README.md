@@ -2,7 +2,7 @@
 
 All things DevOps: processes, best practices, guides and more!
 
-![https://github.com/AsianJohnBoi/devops-resources/blob/main/DevOps.png](https://github.com/AsianJohnBoi/devops-resources/blob/main/DevOps.png)
+![https://github.com/jsantias/devops-resources/blob/main/DevOps.png](https://github.com/jsantias/devops-resources/blob/main/DevOps.png)
 
 ## DNS
 
@@ -29,6 +29,8 @@ All things DevOps: processes, best practices, guides and more!
 [Manage multiple SSH keys and Github Accounts](https://medium.com/pranayaggarwal25/create-and-manage-multiple-github-accounts-272e4459b6bd)
 [Handle multiple git configs in one machine](https://www.freecodecamp.org/news/how-to-handle-multiple-git-configurations-in-one-machine/)
 
+[Git squash history after merge](https://stackoverflow.com/questions/14043961/git-squash-history-after-merge)
+
 ## AWS
 
 [Easy Amazon EC2 Instance Comparison](https://instances.vantage.sh)
@@ -38,8 +40,6 @@ All things DevOps: processes, best practices, guides and more!
 [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
 ## Docker
-
-[Docker Certified Associate](https://www.udemy.com/course/docker-certified-associate/)
 
 [Containerisation Explained](https://www.docker.com/resources/what-container)
 
@@ -93,6 +93,7 @@ IDE's
 - [Atom](https://atom.io)
 - [Sublime Text](https://www.sublimetext.com)
 - [IntelliJ](https://www.jetbrains.com/idea/)
+- [Cursor](https://cursor.sh) - A fork os VSCode with Copilot
 
 Git GUIs
 
@@ -142,7 +143,8 @@ Site optimisations:
 - [SVG Converte](https://image.online-convert.com/convert-to-svg)r: Image to SVG format
 
 IaC:
-
+- [cdkworkshop.com](https://cdkworkshop.com): AWS CDK workshop
+- [aws-cdk-stack-builder-tool](https://github.com/aws-cdk-stack-builder-tool/aws-cdk-stack-builder-tool): AWS CDK stack builder tool
 - [tflint](https://github.com/terraform-linters/tflint): Terraform linter
 - [cfn-format](https://github.com/awslabs/aws-cloudformation-template-formatter): Cloudformation formatter
 - [cfn-lint](https://github.com/aws-cloudformation/cfn-lint): Cloudformation linter
